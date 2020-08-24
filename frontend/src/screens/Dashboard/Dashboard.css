@@ -1,0 +1,15 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropzone {
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-style: dashed;
+}
